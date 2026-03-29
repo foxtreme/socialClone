@@ -18,7 +18,7 @@ lazy-object-proxy==1.4.1
 mccabe==0.6.1
 olefile==0.46
 Pillow==10.3.0
-pyasn1==0.4.5
+pyasn1==0.6.3
 pycodestyle==2.5.0
 pycparser==2.19
 pylint==2.3.1
