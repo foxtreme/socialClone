@@ -1,7 +1,7 @@
 argon2-cffi==19.1.0
 astroid==2.2.5
 autopep8==1.4.4
-awscli==1.16.206
+awscli==1.44.38
 bcrypt==3.1.6
 botocore==1.12.196
 certifi==2024.7.4
